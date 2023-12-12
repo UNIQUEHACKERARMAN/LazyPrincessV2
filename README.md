@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/68d28011b2bc356b5db01.png" alt="Lazy Princess Logo">
+  <img src="https://telegra.ph/file/68d28011b2bc356b5db01.png(https://telegra.ph/file/f7c75d1ba257504315a93.jpg)" alt="Lazy Princess Logo">
 </p>
 <h1 align="center">
   <b> Lazy PrincessV2.0 </b>
@@ -70,7 +70,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/LazyDeveloperr/LazyPrincessv2">
+<a href="https://heroku.com/deploy?template=https://github.com/UNIQUEHACKERARMAN/LazyPrincessV2">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
